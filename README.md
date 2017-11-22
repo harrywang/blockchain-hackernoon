@@ -1,4 +1,4 @@
-This the code for https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
+This is code for the tutorial at https://hackernoon.com/learn-blockchains-by-building-one-117428612f46 with my revisions. 
 
 install python 3 if needed: ``$ brew install python3`, test with: `$ python3`
 
